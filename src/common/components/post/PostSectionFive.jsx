@@ -15,14 +15,7 @@ const filters = [
     id: 2,
     cate: "Food",
   },
-  // {
-  //   id: 3,
-  //   cate: "Design",
-  // },
-  // {
-  //   id: 4,
-  //   cate: "LifeStyle",
-  // },
+  
 ];
 
 const defaultActiveCat = slugify(filters[0].cate);

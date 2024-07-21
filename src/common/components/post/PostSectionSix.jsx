@@ -15,14 +15,7 @@ const filters = [
     id: 2,
     cate: "Fashion",
   },
-//   {
-//     id: 3,
-//     cate: "SEO",
-//   },
-//   {
-//     id: 4,
-//     cate: "Research",
-//   },
+
 ];
 
 const defaultActiveCat = slugify(filters[0].cate);

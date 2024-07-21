@@ -1,32 +1,32 @@
 [
     {
         "id": 1,
-        "image": "/images/small-images/ig.png",
+        "image": "/images/small-images/a.webp",
         "url": "#"
     },
     {
         "id": 2,
-        "image": "/images/small-images/ig.png",
+        "image": "/images/small-images/g.webp",
         "url": "#"
     },
     {
         "id": 3,
-        "image": "/images/small-images/ig.png",
+        "image": "/images/small-images/n.webp",
         "url": "#"
     },
     {
         "id": 4,
-        "image": "/images/small-images/ig.png",
+        "image": "/images/small-images/m.webp",
         "url": "#"
     },
     {
         "id": 5,
-        "image": "/images/small-images/ig.png",
+        "image": "/images/small-images/p.webp",
         "url": "#"
     },
     {
         "id": 6,
-        "image": "/images/small-images/ig.png",
+        "image": "/images/small-images/q.webp",
         "url": "#"
     }
 ]

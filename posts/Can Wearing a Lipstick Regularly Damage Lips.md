@@ -12,7 +12,7 @@ read_time: '3 min read'
 author_name: 'Dhananjaya Jayarathna'
 author_img: '/images/posts/author/author-b6.webp'
 author_designation: 'Sr. UX Designer'
-# author_bio: 'At 29 years old, my favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top, makes me so proud of how far I’ve come, and so thankful for where I come from.'
+
 author_social:
     -
         icon: fab fa-facebook-f
@@ -39,41 +39,9 @@ tags:
 **Can Wearing a Lipstick Regularly Damage Lips?**
 
 ![Post Images](/images/post-single/l.webp)
-*Can Wearing a Lipstick Regularly Damage Lips?.*
 
-<!-- Apple today named eight app and game developers receiving an Apple Design Award, each one selected for being thoughtful and creative. Apple Design Award winners bring distinctive new ideas to life and demonstrate deep mastery of Apple technology. The apps spring up from developers large and small, in every part of the world, and provide users with new ways of working, creating, and playing.
 
-“Every year, app and game developers demonstrate exceptional craftsmanship and we’re honoring the best of the best,” said Ron Okamoto, Apple’s vice president of Worldwide Developer Relations. “Receiving an Apple Design Award is a special and laudable accomplishment. Past honorees have made some of the most noteworthy apps and games of all time. Through their vision, determination, and exacting standards, the winning developers inspire not only their peers in the Apple developer community, but all of us at Apple, too.”
 
-## Apple Design Award Winners: Apps
-
-Apple today named eight app and game developers receiving an Apple Design Award, each one selected for being thoughtful and creative. Apple Design Award winners bring distinctive new ideas to life and demonstrate deep mastery of Apple technology. The apps spring up from developers large and small, in every part of the world, and provide users with new ways of working, creating, and playing.
-
-“Every year, app and game developers demonstrate exceptional craftsmanship and we’re honoring the best of the best,” said Ron Okamoto, Apple’s vice president of Worldwide Developer Relations. “Receiving an Apple Design Award is a special and laudable accomplishment. Past honorees have made some of the most noteworthy apps and games of all time. Through their vision, determination, and exacting standards, the winning developers inspire not only their peers in the Apple developer community, but all of us at Apple, too.”
-
-> “Most of us felt like we could trust each other to be quarantined together, so we didn’t need to wear masks or stay far apart.”
-
-![Post Images](/images/post-single/post-single-03.webp)
-*The Apple Design Award trophy, created by the Apple Design team, is a symbol of achievement and excellence.*
-
-## Apple Design Award Winners: Apps
-
-[Apple today named](#) eight app and game developers receiving an Apple Design Award, each one selected for being thoughtful and creative. Apple Design Award winners bring distinctive new ideas to life and demonstrate deep mastery of Apple technology. The apps spring up from developers large and small, in every part of the world, and provide users with new ways of working, creating, and playing.
-
-“Every year, app and game developers demonstrate exceptional craftsmanship and we’re honoring the best of the best,” said Ron Okamoto, Apple’s vice president of Worldwide Developer Relations. “Receiving an Apple Design Award is a special and laudable accomplishment. Past honorees have made some of the most noteworthy apps and games of all time. Through their vision, determination, and exacting standards, the winning developers inspire not only their peers in the Apple developer community, but all of us at Apple, too.”
-
-![Post Images](/images/post-single/post-single-04.webp)
-*The Apple Design Award trophy, created by the Apple Design team, is a symbol of achievement and excellence.*
-
-## Apple Design Award Winners: Apps
-
-[Apple today named](#) eight app and game developers receiving an Apple Design Award, each one selected for being thoughtful and creative. Apple Design Award winners bring distinctive new ideas to life and demonstrate deep mastery of Apple technology. The apps spring up from developers large and small, in every part of the world, and provide users with new ways of working, creating, and playing.
-
-“Every year, app and game developers demonstrate exceptional craftsmanship and we’re honoring the best of the best,” said Ron Okamoto, Apple’s vice president of Worldwide Developer Relations. “Receiving an Apple Design Award is a special and laudable accomplishment. Past honorees have made some of the most noteworthy apps and games of all time. Through their vision, determination, and exacting standards, the winning developers inspire not only their peers in the Apple developer community, but all of us at Apple, too.”
-
-More than 250 developers have been recognized with Apple Design Awards over the past 20 years. The recognition has proven to be an accelerant for developers who are pioneering innovative designs within their individual apps and influencing entire categories. Previous winners such as Pixelmator, djay, Complete Anatomy, HomeCourt, “Florence,” and “Crossy Road” have set the standard in areas such as storytelling, interface design, and use of Apple tools and technologies.
-
-For more information on the apps and games, visit the [App Store](#). -->
 
 
    Lipsticks have long been a staple in the world of cosmetics, adding color and vibrancy to countless smiles. However, as more people embrace daily lipstick application, concerns have arisen about the potential damage this beauty ritual may inflict on our precious lips.
